@@ -15345,8 +15345,9 @@
       ]
     },
     "Xam.Plugin.Geolocator/3.0.4": {
-      "sha512": "mFAZEQxD+PfPoYu2MAWyzCz1TDgAh1mF/sOVxqUvuMSZuF4YffYooK3OlAODkGQj/aGjuQwwjQ9dI9BveMIhNw==",
+      "sha512": "5UMAwRk+dk+Ar0Ei+Jd0H8G0a0tHsm9gJouCXMuGnvEFU2CzOJJKrNfH2QGi7eVfsd5/XHoJhhk6J0Pi38olXA==",
       "type": "package",
+      "path": "Xam.Plugin.Geolocator/3.0.4",
       "files": [
         "Xam.Plugin.Geolocator.3.0.4.nupkg.sha512",
         "Xam.Plugin.Geolocator.nuspec",
@@ -15404,8 +15405,9 @@
       ]
     },
     "Xam.Plugins.Settings/2.5.1": {
-      "sha512": "qLFxTF5NXC4VvLt4+DtdYc31d33bXOQkophUlm4mGRZoefeF/bu4ScnrcK0OZYAXimt1ONqO9kId2e6YcsW5dA==",
+      "sha512": "74FJFEiDiItFm73B+k5bBGXu7ZJF1J8u+GNjS/xYgtgSqty+5Nc8ZWwxx0BqzlrDmGnKPSnNcTf2vm5Sw46bIw==",
       "type": "package",
+      "path": "Xam.Plugins.Settings/2.5.1",
       "files": [
         "Xam.Plugins.Settings.2.5.1.nupkg.sha512",
         "Xam.Plugins.Settings.nuspec",
