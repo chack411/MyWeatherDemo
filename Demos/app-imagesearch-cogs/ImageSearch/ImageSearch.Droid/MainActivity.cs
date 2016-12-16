@@ -7,6 +7,9 @@ using Android.Support.V7.Widget;
 using ImageSearch.Droid.Adapters;
 using ImageSearch.ViewModel;
 using Acr.UserDialogs;
+using Microsoft.Azure.Mobile;
+using Microsoft.Azure.Mobile.Analytics;
+using Microsoft.Azure.Mobile.Crashes;
 
 namespace ImageSearch.Droid
 {
@@ -72,6 +75,8 @@ namespace ImageSearch.Droid
             SupportActionBar.SetDisplayHomeAsUpEnabled(false);
             SupportActionBar.SetHomeButtonEnabled(false);
 
+            MobileCenter.Start("7f208119-879b-42b3-b98e-2fff703e2f61",
+                                typeof(Analytics), typeof(Crashes));
         }
     }
 }

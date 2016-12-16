@@ -1,0 +1,4 @@
+C:\Users\akirain\Documents\Visual Studio 2015\Projects\dev-days-labs\Demos\app-myweather\MyWeather.Droid\bin\Debug
+
+
+mobile-center test run uitest --app "chack411/myweather-android" --devices 63101b4f --app-path "C:\Users\akirain\Demo\dev-days-labs\Demos\app-myweather\MyWeather.Droid\bin\Release\MyWeather.Droid.apk"  --test-series "master" --locale "en_US" --build-dir "C:\Users\akirain\Demo\dev-days-labs\Demos\app-myweather\MyWeather.UITest\bin\Release"
